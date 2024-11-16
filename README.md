@@ -1,8 +1,32 @@
 <h1 align="center">
-  Hi there 👋, I'm <a href="https://github.com/zfosix">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Fajar Fauzian!;Frontend+Development;UI%2FUX+Designer;Passionate+about+Tech+%26+Code" alt="Typing SVG" />
-  </a>
+  Hi there 👋, I'm
+  <span id="typing-effect"></span>
 </h1>
+
+<script>
+  // Script untuk Typing Effect menggunakan TypewriterJS
+  const app = document.getElementById('typing-effect');
+
+  const typewriter = new Typewriter(app, {
+    loop: true,
+    delay: 75,
+  });
+
+  typewriter
+    .typeString('<strong>Fajar Fauzian!</strong>')
+    .pauseFor(1000)
+    .deleteAll()
+    .typeString('<strong>Frontend Development</strong>')
+    .pauseFor(1000)
+    .deleteAll()
+    .typeString('<strong>UI/UX Designer</strong>')
+    .pauseFor(1000)
+    .deleteAll()
+    .typeString('<strong>Passionate about Tech & Code</strong>')
+    .pauseFor(1000)
+    .deleteAll()
+    .start();
+</script>
 
 I am currently still in school and my interests are **Frontend Development** & **UI/UX Design**, but I also enjoy learning other programming languages such as **Dart**, **Java**, **Python**, and **Go**.
 
@@ -28,21 +52,9 @@ I am currently still in school and my interests are **Frontend Development** & *
 ---
 
 ### 📊 Stats:
-<details>
-<summary><strong>What I am learning/working on these days:</strong></summary>
-    - 🔭 I’m currently working on RPA </br>
-    - 🌱 I’m currently learning Dart, Java, Python, and Go </br>
-    - 👯 I’m looking to collaborate on Automation Projects or Mobile Apps </br>
-    - 🤔 I’m looking for help to master programming. Hehe </br>
-    - 💬 Ask me about anything! </br>
-    - 📫 How to reach me: <a href="mailto:fajarfauzian53@gmail.com">Email me!</a> </br>
-    - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
-</details>
-
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=zfosix&hide=contribs,prs&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=00ffcc&bg_color=0d1117&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfosix&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=00ffcc&bg_color=0d1117&theme=tokyonight" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=zfosix&hide=contribs,prs&show_icons=true&hide_border=true&title_color=00FFFF&text_color=A9F6FF&icon_color=00FFCC&bg_color=151515&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfosix&layout=compact&hide_border=true&title_color=00FFFF&text_color=A9F6FF&icon_color=00FFCC&bg_color=151515&theme=tokyonight" height=180 />
 </p>
 
 ---
