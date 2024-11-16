@@ -1,32 +1,9 @@
 <h1 align="center">
-  Hi there 👋, I'm
-  <span id="typing-effect"></span>
+  Hi there 👋, I'm <a href="https://github.com/zfosix">
+    <object type="image/svg+xml" data="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Fajar+Fauzian!;Frontend+Development;UI%2FUX+Designer;Passionate+about+Tech+%26+Code"></object>
+  </a>
 </h1>
 
-<script>
-  // Script untuk Typing Effect menggunakan TypewriterJS
-  const app = document.getElementById('typing-effect');
-
-  const typewriter = new Typewriter(app, {
-    loop: true,
-    delay: 75,
-  });
-
-  typewriter
-    .typeString('<strong>Fajar Fauzian!</strong>')
-    .pauseFor(1000)
-    .deleteAll()
-    .typeString('<strong>Frontend Development</strong>')
-    .pauseFor(1000)
-    .deleteAll()
-    .typeString('<strong>UI/UX Designer</strong>')
-    .pauseFor(1000)
-    .deleteAll()
-    .typeString('<strong>Passionate about Tech & Code</strong>')
-    .pauseFor(1000)
-    .deleteAll()
-    .start();
-</script>
 
 I am currently still in school and my interests are **Frontend Development** & **UI/UX Design**, but I also enjoy learning other programming languages such as **Dart**, **Java**, **Python**, and **Go**.
 
