@@ -1,9 +1,9 @@
 <h1 align="center">
   Hi there 👋, I'm <a href="https://github.com/zfosix">
-    <object type="image/svg+xml" data="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Fajar+Fauzian!;Frontend+Development;UI%2FUX+Designer;Passionate+about+Tech+%26+Code"></object>
+    <iframe src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Fajar+Fauzian!;Frontend+Development;UI%2FUX+Designer;Passionate+about+Tech+%26+Code" 
+      frameborder="0" width="500" height="50"></iframe>
   </a>
 </h1>
-
 
 I am currently still in school and my interests are **Frontend Development** & **UI/UX Design**, but I also enjoy learning other programming languages such as **Dart**, **Java**, **Python**, and **Go**.
 
