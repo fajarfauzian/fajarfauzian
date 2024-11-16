@@ -1,5 +1,10 @@
-# Hi there 👋, I'm Fajar Fauzian!  
-I'm currently in school and my passion is **Frontend Development** & **UI/UX Design**, but I also enjoy exploring programming languages like **Dart**, **Java**, **Python**, and **Go**.
+<h1 align="center">
+  Hi there 👋, I'm <a href="https://github.com/zfosix">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Fajar Fauzian!;Frontend+Development;UI%2FUX+Designer;Passionate+about+Tech+%26+Code" alt="Typing SVG" />
+  </a>
+</h1>
+
+I am currently still in school and my interests are **Frontend Development** & **UI/UX Design**, but I also enjoy learning other programming languages such as **Dart**, **Java**, **Python**, and **Go**.
 
 ---
 
@@ -35,9 +40,9 @@ I'm currently in school and my passion is **Frontend Development** & **UI/UX Des
     - ⚡ Fun fact: ... </br>
 </details>
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=bagusfe&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusfe&layout=compact" height=180 />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=zfosix&hide=contribs,prs&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=00ffcc&bg_color=0d1117&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfosix&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=00ffcc&bg_color=0d1117&theme=tokyonight" height=180 />
 </p>
 
 ---
