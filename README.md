@@ -27,8 +27,9 @@ I am currently still in school and my interests are **Frontend Development** & *
 
 ### 📊 Stats:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=zfosix&hide=contribs,prs&show_icons=true&hide_border=true&title_color=00FFFF&text_color=A9F6FF&icon_color=00FFCC&bg_color=151515&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfosix&layout=compact&hide_border=true&title_color=00FFFF&text_color=A9F6FF&icon_color=00FFCC&bg_color=151515&theme=tokyonight" height=180 />
+   ![zfosix's Stats](https://github-readme-stats.vercel.app/api?username=zfosix&theme=onedark&show_icons=true&hide_border=true&count_private=true)
+    ![zfosix's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zfosix&theme=onedark&hide_border=true)
+  ![zfosix's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zfosix&theme=onedark&show_icons=true&hide_border=true&layout=compact)
 </p>
 
 ---
