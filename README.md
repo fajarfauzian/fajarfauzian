@@ -22,7 +22,6 @@ I am currently still in school and my interests are **Frontend Development** & *
     <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat" />
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />
-    <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=flat" />
     <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=flat" />
     <img src="https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white&style=flat" />
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" />
@@ -32,7 +31,6 @@ I am currently still in school and my interests are **Frontend Development** & *
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
     <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat" />
-    <img src="https://img.shields.io/badge/Gulp-CF4647?logo=gulp&logoColor=white&style=flat" />
 </p>
 
 
