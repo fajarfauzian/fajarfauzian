@@ -2,7 +2,7 @@
   Hi there 👋, I'm Fajar Fauzian
 </h1>
 
-I am currently still in school and my interests are **Frontend Development** & **UI/UX Design**, but I also enjoy learning other programming languages such as **Dart**, **Java**, **Python**, and **Go**.
+I'm a passionate Frontend Developer with a strong eye for detail and a deep interest in crafting clean, responsive, and user-friendly interfaces. I combine my technical skills with UI/UX principles to build digital experiences that are both functional and aesthetically pleasing.
 
 ---
 
@@ -39,7 +39,6 @@ I am currently still in school and my interests are **Frontend Development** & *
 ### 📊 Stats:
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=zfosix&theme=onedark&show_icons=true&hide_border=true&count_private=true" alt="zfosix's Stats">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zfosix&theme=onedark&hide_border=true" alt="zfosix's Streak">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfosix&theme=onedark&show_icons=true&hide_border=true&layout=compact" alt="zfosix's Top Languages">
 </p>
 
