@@ -38,8 +38,8 @@ I'm a passionate Frontend Developer with a strong eye for detail and a deep inte
 
 ### 📊 Stats:
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=zfosix&theme=onedark&show_icons=true&hide_border=true&count_private=true" alt="zfosix's Stats">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfosix&theme=onedark&show_icons=true&hide_border=true&layout=compact" alt="zfosix's Top Languages">
+   <img src="https://github-readme-stats.vercel.app/api?username=fajarfauzian&theme=onedark&show_icons=true&hide_border=true&count_private=true" alt="fajarfauzian's Stats">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajarfauzian&theme=onedark&show_icons=true&hide_border=true&layout=compact" alt="fajarfauzian's Top Languages">
 </p>
 
 ---
