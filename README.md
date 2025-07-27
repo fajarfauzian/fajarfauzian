@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Fajar Fauzian
+## Hi there👋, I'm Fajar Fauzian
 
 <!-- ![Fajar Fauzian](img/github-header-image.png) -->
 
