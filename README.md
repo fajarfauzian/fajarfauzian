@@ -1,4 +1,4 @@
-## Hi there👋, I'm Fajar Fauzian
+## Hi there 👋, I'm Fajar Fauzian
 
 <!-- ![Fajar Fauzian](img/github-header-image.png) -->
 
@@ -29,23 +29,8 @@ Good design isn't just about looking cool, but also about how it feels when you 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fajarfauzian&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=fajarfauzian&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<h2 align="left">Play Game With Me</h2>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fajarfauzian/fajarfauzian/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fajarfauzian/fajarfauzian/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fajarfauzian/fajarfauzian/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <img src="https://raw.githubusercontent.com/fajarfauzian/fajarfauzian/output/snake.svg" alt="Snake animation" />
 
