@@ -12,8 +12,7 @@ Good design isn't just about looking cool, but also about how it feels when you 
 
 ##### Let's connect:
 
-![https://www.instagram.com/zfosix/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/fajarfauzian/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://x.com/zianscode](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) ![https://github.com/fajarfauzian](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
+![https://www.instagram.com/zfosix/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/fajarfauzian/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://x.com/zianscode](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) ![mailto:fajarfauzian53@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ##### Stats:
 
@@ -31,6 +30,13 @@ Good design isn't just about looking cool, but also about how it feels when you 
 
 [![](https://visitcount.itsvg.in/api?id=fajarfauzian&icon=0&color=0)](https://visitcount.itsvg.in)
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fajarfauzian/fajarfauzian/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fajarfauzian/fajarfauzian/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fajarfauzian/fajarfauzian/output/pacman-contribution-graph.svg">
+</picture>
 
 <img src="https://raw.githubusercontent.com/fajarfauzian/fajarfauzian/output/snake.svg" alt="Snake animation" />
 
