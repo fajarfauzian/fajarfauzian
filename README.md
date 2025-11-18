@@ -2,7 +2,7 @@
 
 <!-- ![Fajar Fauzian](img/github-header-image.png) -->
 
-Good design isn't just about looking cool, but also about how it feels when you use it.
+Good design isn't just about looking cool, but also about how it feels when you use it
 
 
 ##### 🛠 Tools & Tech Stack
