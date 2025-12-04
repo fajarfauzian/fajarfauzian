@@ -12,11 +12,5 @@ Good design isn't just about looking cool, but also about how it feels when you 
 <img src="https://raw.githubusercontent.com/fajarfauzian/fajarfauzian/output/snake.svg" alt="Snake animation" />
 
 
-##### Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=fajarfauzian&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fajarfauzian&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fajarfauzian&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
